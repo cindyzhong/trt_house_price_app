@@ -4,7 +4,7 @@ In this session we will build a web app to predict the house price of your prope
 
 ## Pre-requisite
 * Python 3.6 and above
-* Google Maps API: install [googlemaps]([https://github.com/googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python))
+* Google Maps API: install [googlemaps](https://github.com/googlemaps/google-maps-services-python)
 * json
 * flask
 * pandas
@@ -21,9 +21,9 @@ The SAS SWAT package is a Python interface to the SAS Cloud Analytic Services (C
 
 In your $HOME directory, create a csv file containing your credentials
 |google_api_key |Your Google Earth API Token|
-|--|--|
+|---|---|
 |casuser | your cas username provided |
-|--|--|
+|---|---|
 |password | your cas password provided |
 
 ## Test your CAS connection
