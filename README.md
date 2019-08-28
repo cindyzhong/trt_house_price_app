@@ -20,11 +20,12 @@ The SAS SWAT package is a Python interface to the SAS Cloud Analytic Services (C
 ## Create file for credentials
 
 In your $HOME directory, create a csv file containing your credentials
-|google_api_key |Your Google Earth API Token|
-|---|---|
-|casuser | your cas username provided |
-|---|---|
-|password | your cas password provided |
+|     |     |
+| --- | --- |
+| google_api_key | Your Google Earth API Token |
+| casuser | your cas username provided|
+| password | your cas password provided|
+
 
 ## Test your CAS connection
 
