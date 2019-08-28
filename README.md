@@ -41,7 +41,7 @@ creds = pd.read_csv('~/creds.csv', header=None)
 username = creds.iloc[1,1]
 password = creds.iloc[2,1]
 
-conn = swat.CAS('http://13.88.252.54/cas-shared-default-http/',5570, username, password)
+conn = swat.CAS('http://<INSERTHOST>/cas-shared-default-http/',5570, username, password)
 conn.userinfo()
 ```
 
